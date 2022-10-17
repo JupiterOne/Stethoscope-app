@@ -1,3 +1,9 @@
+# Important!
+
+As of October 14th 2022, JupiterOne has officially deprecated support for this tool including its relationship with the JupiterOne software. Please use at your own risk. For more information, please contact support@jupiterone.com. 
+
+Thanks!
+
 # Stethoscope app
 
 [![Join the chat at https://gitter.im/Netflix-Stethoscope/Lobby](https://badges.gitter.im/Netflix-Stethoscope/Lobby.svg)](https://gitter.im/Netflix-Stethoscope/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) ![Build status](https://img.shields.io/github/workflow/status/Netflix-Skunkworks/stethoscope-app/CI) [![Apache 2.0](https://img.shields.io/github/license/Netflix/stethoscope.svg)](http://www.apache.org/licenses/LICENSE-2.0) [![NetflixOSS Lifecycle](https://img.shields.io/osslifecycle/Netflix-Skunkworks/stethoscope-app.svg)]() [![Snyk](https://img.shields.io/snyk/vulnerabilities/github/Netflix-Skunkworks/stethoscope-app)]() [![Dependencies](https://img.shields.io/david/Netflix-Skunkworks/stethoscope-app)]() [![Current Version](https://img.shields.io/github/package-json/v/Netflix-Skunkworks/stethoscope-app)]() [![Current Release](https://img.shields.io/github/v/release/Netflix-Skunkworks/stethoscope-app)]()
